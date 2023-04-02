@@ -16,7 +16,7 @@ _PCB 3D Model_
 _PCB Layout_
 ![image](https://user-images.githubusercontent.com/128961461/229329842-6afc7c78-8525-42e2-9769-8c50666a0aaa.png)
 
-PCB Schematic
+_PCB Schematic_
 ![image](https://user-images.githubusercontent.com/128961461/229329938-6d1978a1-4e53-48d7-bb81-7ddb1cc4ee85.png)
 
 
