@@ -4,13 +4,12 @@ This is a PCB that can help provide the amount of power drawn in a system. This 
 <br>
 **The PCB is made for a 24V, 10A system**, power calculations derived the maximum power through the shunt to be 0.2W, well below the 8W rating of the shunt.<br>
 <br>
-Note: Arduino can read a minimum voltage of 0.0049V, **an op-amp is not necessary in this circuit**<br>
-<br>
 Part Specifications:<br>
 Shunt Sensor: 2 mili-Ohms resistance, +/- 1% tol, 8W max power<br>
 Capacitors: 100nF, 6.3V, +/- 10% tol<br>
 Resistors: 100 Ohms, +/-1 %, 63 mW<br>
 Input/Output: XT30PW-M<br>
+Note: Arduino can read a minimum voltage of 0.0049V, **an op-amp is not necessary in this circuit**<br>
 
 _PCB 3D Model_
 ![image](https://user-images.githubusercontent.com/128961461/229329821-7d23fa43-fc2b-45ac-9776-c19e468725f8.png)
