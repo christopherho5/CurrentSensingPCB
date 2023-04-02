@@ -2,7 +2,7 @@
 
 This is a PCB that can help provide the amount of power drawn in a system. This is done by placing a shunt sensor in series within the circuit, which produces a voltage drop across itself that will be read using an Arduino. A shunt sensor is a relatively low resistance resistor. Using Ohm's Law, this can be converted to current, which can be used to derived for power. Noise filtering capacitors were also used with their appropiate resistance to reduce inaccurate peak readings.<br>
 <br>
-**The PCB is made for a 24V, 10A system**, power calculations derived the maximum power through the shunt to be 0.2W, well below the 8W rating of the shunt.<br>
+**The PCB is made for a 24V, 10A system**, the maximum power scenario through the shunt is at 0.2W, well below the 8W rating.<br>
 <br>
 Part Specifications:<br>
 Shunt Sensor: 2 mili-Ohms resistance, +/- 1% tol, 8W max power<br>
